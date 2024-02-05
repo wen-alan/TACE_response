@@ -12,8 +12,8 @@ The TACE_response prediction model is avaiable for research-use only. commercial
 
 ### training and inference models
   1.CNN+Cli models  
-  ```python main_val_5S.py```
+  ```python main_val_5S.py```  
   2.Cli models  
-  ```python main_val_5S_cli.py```
+  ```python main_val_5S_cli.py```  
   3.CNN models  
   ```python main_val_5S_cnn.py```
